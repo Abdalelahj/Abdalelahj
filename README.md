@@ -5,7 +5,7 @@
 
 I’m a dedicated full-stack developer with skills in both front-end and back-end technologies. I enjoy solving problems and taking on new challenges. I also love working with others on creative projects and learning about new technologies 😍.<p>
 
-
+<br><br>
 ## Languages & Tools
 <a href="https://react.dev/" target="blank">
 <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"  />
@@ -25,6 +25,8 @@ I’m a dedicated full-stack developer with skills in both front-end and back-en
 <a href="https://www.mongodb.com/" target="blank">
 <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"  />
 </a>
+<br><br>
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
 <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
 </a>
@@ -34,6 +36,7 @@ I’m a dedicated full-stack developer with skills in both front-end and back-en
 </a>
 
 
+<br><br>
 ## Connect with me
 
 <a href="#" target="blank">
@@ -51,7 +54,7 @@ I’m a dedicated full-stack developer with skills in both front-end and back-en
 
 
 
-
+<br><br>
 ## My GitHub States
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdalelahj&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="Abdalelahj stats card" /></p>
 <p>&nbsp;
